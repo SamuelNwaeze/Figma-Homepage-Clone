@@ -1,0 +1,18 @@
+@use "./reset" as *;
+
+nav {
+  justify-content: start !important;
+  .navBar {
+    padding: 24px 32px;
+    margin: 0% auto;
+  }
+}
+
+.nav-item {
+  a {
+    color: black !important;
+  }
+  .navButton {
+    color: white !important;
+  }
+}

@@ -1,0 +1,15 @@
+@use "./reset" as *;
+
+.hero {
+  width: 80vw;
+  height: 40vh;
+  //   margin: 0px 95px;
+}
+
+.heroText {
+  text-align: center;
+  p {
+    font-size: 1.375rem;
+    margin: 0px 242px 40px;
+  }
+}

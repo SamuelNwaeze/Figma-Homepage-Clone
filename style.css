@@ -1,0 +1,39 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: Whyte, sans-serif;
+}
+
+body {
+  background: #fafafa;
+}
+
+nav {
+  justify-content: start !important;
+}
+nav .navBar {
+  padding: 24px 32px;
+  margin: 0% auto;
+}
+
+.nav-item a {
+  color: black !important;
+}
+.nav-item .navButton {
+  color: white !important;
+}
+
+.hero {
+  width: 80vw;
+  height: 40vh;
+}
+
+.heroText {
+  text-align: center;
+}
+.heroText p {
+  font-size: 1.375rem;
+  margin: 0px 242px 40px;
+}
+/*# sourceMappingURL=style.css.map */
