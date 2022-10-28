@@ -36,4 +36,25 @@ nav .navBar {
   font-size: 1.375rem;
   margin: 0px 242px 40px;
 }
+
+.heroButton {
+  margin-bottom: 20px;
+  justify-content: center !important;
+}
+
+.heroImageandVideo {
+  display: block;
+}
+.heroImageandVideo .imageBelowHero {
+  background-image: linear-gradient(rgba(250, 250, 250, 0) 0%, rgb(250, 250, 250) 85%);
+  position: relative;
+}
+.heroImageandVideo .videoBelowHero {
+  position: absolute;
+  width: 46%;
+  left: 50%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  max-width: 100%;
+}
 /*# sourceMappingURL=style.css.map */
